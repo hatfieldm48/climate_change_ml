@@ -1,5 +1,5 @@
 # climate_change_ml
-A workbench for various projects dealing with environment, sustainability, or climate change datasets and how to apply machine learning or visualization to them in a useful methodology.
+A workbench for various projects dealing with environment, sustainability, or climate change datasets and how to apply machine learning or visualization to them in a useful methodology. As a note, a lot, if not all, of my idea generation was started by this article/website here: https://www.climatechange.ai/summaries. The authors do a great job providing a easy to navigate abundance of ideas about how various data science and machine learning solutions can support a variety of problems facing climate change.
 
 ### File Overview
 * Concrete_Cracks - A separate folder for fastai implementation of classifying images of concrete of either having cracks or not having cracks
